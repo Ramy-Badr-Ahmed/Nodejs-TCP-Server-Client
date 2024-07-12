@@ -5,7 +5,10 @@
 # TCP Communication with Node.js
 
 A TCP server and client implementation using Node.js's `net` module, operating at the Transport Layer of the OSI Model.
-This implementation focuses on direct and efficient communication without additional overhead such as data compression or encryption/decryption, suitable for safe and trusted networks.
+
+This implementation focuses on direct communication without additional overhead such as data compression or encryption/decryption, suitable for safe and trusted networks.
+
+The TLS variant is located here: [Node-TLS](https://github.com/Ramy-Badr-Ahmed/node-tls)
 
 #### Some Use Cases:
 
