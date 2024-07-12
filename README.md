@@ -2,7 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=yellow)
 ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=red)
 
-A basic TCP server and client using Node.js's `net` module.
+A TCP server and client implementation using Node.js's `net` module, operating at the Session Layer of the OSI Model.
 
 #### Use Cases:
 
