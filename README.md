@@ -24,8 +24,17 @@ This implementation focuses on direct and efficient communication without additi
     > Set up the TCP client to send sensor data periodically from remote IoT devices to the server for analysis (centralized data receiver/logger).
   
 #### Quick Start:
+Server:
 ```shell
 npm install
 node tcpServer.js   # Runs Server
+```
+Client:
+```shell
+npm install
 node tcpClient.js   # Runs Client
 ```  
+
+Logs and Outputs:
+
+The server and client will log various server/client events and actions, such as connection establishment, data transmission, and encountered errors.
