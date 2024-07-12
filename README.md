@@ -2,7 +2,10 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=yellow)
 ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=red)
 
-A TCP server and client implementation using Node.js's `net` module, operating at the Session Layer of the OSI Model.
+# TCP Communication with Node.js
+
+A TCP server and client implementation using Node.js's `net` module, operating at the Transport Layer of the OSI Model.
+This implementation focuses on direct and efficient communication without additional overhead such as data compression or encryption/decryption, suitable for safe and trusted networks.
 
 #### Use Cases:
 
