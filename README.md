@@ -7,7 +7,7 @@
 A TCP server and client implementation using Node.js's `net` module, operating at the Transport Layer of the OSI Model.
 This implementation focuses on direct and efficient communication without additional overhead such as data compression or encryption/decryption, suitable for safe and trusted networks.
 
-#### Use Cases:
+#### Some Use Cases:
 
 - Network Diagnostics 
     > Test network connectivity and latency between network segments.
