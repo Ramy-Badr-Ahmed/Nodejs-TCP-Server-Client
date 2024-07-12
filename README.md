@@ -1,6 +1,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-100%25-green)
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=yellow)
-![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=red)
+![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=lightblue)
 
 # TCP Communication with Node.js
 
