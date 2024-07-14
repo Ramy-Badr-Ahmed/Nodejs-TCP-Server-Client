@@ -1,7 +1,8 @@
-![Node.js](https://img.shields.io/badge/node.js-100%25-green)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white)
+
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=yellow)
 ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=lightblue)
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Ramy-Badr-Ahmed/node-tcp/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Ramy-Badr-Ahmed/node-tcp)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:3022219080921ea266808592fa83f3afc5242282/)](https://archive.softwareheritage.org/swh:1:dir:3022219080921ea266808592fa83f3afc5242282;origin=https://github.com/Ramy-Badr-Ahmed/node-tcp;visit=swh:1:snp:e0d42b65bc06365c756247a55b21ca431f17a53a;anchor=swh:1:rev:d9e2239926489996936d18aa5804ce1fc2503181)
 
 # TCP Communication with Node.js
 
