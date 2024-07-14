@@ -43,3 +43,7 @@ node tcpClient.js   # Runs Client
 Logs and Outputs:
 
 The server and client will log various server/client events and actions, such as connection establishment, data transmission, and encountered errors.
+
+References
+
+- [Net Module](https://nodejs.org/api/net.html)
