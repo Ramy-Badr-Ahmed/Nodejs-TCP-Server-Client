@@ -1,6 +1,6 @@
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=f7df1e)
 
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:3022219080921ea266808592fa83f3afc5242282/)](https://archive.softwareheritage.org/swh:1:dir:3022219080921ea266808592fa83f3afc5242282;origin=https://github.com/Ramy-Badr-Ahmed/node-tcp;visit=swh:1:snp:e0d42b65bc06365c756247a55b21ca431f17a53a;anchor=swh:1:rev:d9e2239926489996936d18aa5804ce1fc2503181) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tcp?cacheSeconds=1&color=green)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:3022219080921ea266808592fa83f3afc5242282/)](https://archive.softwareheritage.org/swh:1:dir:3022219080921ea266808592fa83f3afc5242282;origin=https://github.com/Ramy-Badr-Ahmed/node-tcp;visit=swh:1:snp:e0d42b65bc06365c756247a55b21ca431f17a53a;anchor=swh:1:rev:d9e2239926489996936d18aa5804ce1fc2503181) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/nodejs-tcp_server-client?&color=green)
 
 # TCP Communication with Node.js
 
@@ -8,7 +8,7 @@ A TCP server and client implementation using Node.js's `net` module, operating a
 
 This implementation focuses on direct communication without additional overhead such as data compression or encryption/decryption, suitable for safe and trusted networks.
 
-The TLS variant is located here: [Node-TLS](https://github.com/Ramy-Badr-Ahmed/node-tls)
+The TLS variant (@Presentation-Layer of the OSI Model) is located here: [Node-TLS](https://github.com/Ramy-Badr-Ahmed/node-tls)
 
 #### Some Use Cases:
 
