@@ -16,10 +16,10 @@ The TLS variant (@Presentation-Layer of the OSI Model) is located here: [Node-TL
     > Test network connectivity and latency between network segments.
 
 - Embedded Systems Communication
-  > Integrate TCP client with embedded devices (e.g. Raspberry Pi, Arduino with Ethernet/Wi-Fi shields) to send data to a central server for monitoring and control.
+  > Integrate TCP client with embedded devices (e.g. Raspberry Pi, Arduino with Ethernet/Wi-Fi shields) to send data to a central server (for monitoring and control).
 
 - Time Synchronization
-  > Use the server to provide a timestamp service for devices on a network, ensuring synchronized time across various systems.
+  > Use the server to provide a timestamp service for devices on a network (ensure synchronized time across various systems).
 
 - IoT Apps
     > Use the TCP server as a central hub to collect data from various IoT devices.
