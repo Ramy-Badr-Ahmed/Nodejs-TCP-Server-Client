@@ -1,6 +1,7 @@
-![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=f7df1e)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=f7df1e) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/nodejs-tcp_server-client?&color=green&style=plastic)
 
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:3022219080921ea266808592fa83f3afc5242282/)](https://archive.softwareheritage.org/swh:1:dir:3022219080921ea266808592fa83f3afc5242282;origin=https://github.com/Ramy-Badr-Ahmed/node-tcp;visit=swh:1:snp:e0d42b65bc06365c756247a55b21ca431f17a53a;anchor=swh:1:rev:d9e2239926489996936d18aa5804ce1fc2503181) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/nodejs-tcp_server-client?&color=green)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12808924.svg)](https://doi.org/10.5281/zenodo.12808924) [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:3022219080921ea266808592fa83f3afc5242282/)](https://archive.softwareheritage.org/swh:1:dir:3022219080921ea266808592fa83f3afc5242282;origin=https://github.com/Ramy-Badr-Ahmed/node-tcp;visit=swh:1:snp:e0d42b65bc06365c756247a55b21ca431f17a53a;anchor=swh:1:rev:d9e2239926489996936d18aa5804ce1fc2503181)
+
 
 # TCP Communication with Node.js
 
